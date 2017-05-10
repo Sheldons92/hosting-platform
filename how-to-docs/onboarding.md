@@ -9,7 +9,7 @@ gpg --import <their key>.gpg
 ```
 Create a uid and store it in a file.
 ```
-uuid > uidfile
+uuidgen > uidfile
 ```
 Now create a token for them.
 ```
